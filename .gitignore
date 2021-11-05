@@ -1,6 +1,7 @@
 .vs/*
 .vscode/*
 .vsconfig
+**/.DS_Store
 *.sln
 *.csproj
 Library/
