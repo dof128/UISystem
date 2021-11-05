@@ -3,5 +3,7 @@
 .vsconfig
 *.sln
 *.csproj
-Logs/*
-Temp/*
+Library/
+Logs/
+Obj/
+Temp/
