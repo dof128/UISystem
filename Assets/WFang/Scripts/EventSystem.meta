@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: f966d5b114bbe407fa23c9e7de863147
+labels:
+- EventSystem
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
